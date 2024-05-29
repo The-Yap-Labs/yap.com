@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834191542837",
+    "project_id": "yap-com-01kt5a",
+    "storage_bucket": "yap-com-01kt5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834191542837:android:bd243c3790bd4a10bd3f7c",
+        "android_client_info": {
+          "package_name": "com.mycompany.yapcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOmBGRgnUE0A3Jf_l8tJGyZWec6o1SkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
